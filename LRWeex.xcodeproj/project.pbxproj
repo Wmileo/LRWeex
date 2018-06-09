@@ -105,6 +105,7 @@
 				B31FEF1120CBB5C3003CDD75 /* AppDelegate.m */,
 				B31FEF1320CBB5C3003CDD75 /* ViewController.h */,
 				B31FEF1420CBB5C3003CDD75 /* ViewController.m */,
+				B31FEF4220CBB5DC003CDD75 /* LRWeex */,
 				B31FEF1620CBB5C3003CDD75 /* Main.storyboard */,
 				B31FEF1920CBB5C4003CDD75 /* Assets.xcassets */,
 				B31FEF1B20CBB5C4003CDD75 /* LaunchScreen.storyboard */,
@@ -130,6 +131,13 @@
 				B31FEF3620CBB5C4003CDD75 /* Info.plist */,
 			);
 			path = LRWeexUITests;
+			sourceTree = "<group>";
+		};
+		B31FEF4220CBB5DC003CDD75 /* LRWeex */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = LRWeex;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
